@@ -14,7 +14,7 @@ Siga as instruções abaixo para configurar o ambiente, completar os exercícios
 Primeiro, clone este repositório para o seu ambiente local utilizando o seguinte comando no terminal:
 
 ```bash
-[git clone [URL_DO_REPOSITÓRIO]](https://github.com/renan-dias/md0104.git)
+git clone https://github.com/renan-dias/md0104.git
 ```
 
 *Substitua `[URL_DO_REPOSITÓRIO]` pela URL real do repositório no GitHub.*
