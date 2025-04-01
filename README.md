@@ -71,7 +71,7 @@ Antes de fazer qualquer alteração, crie uma nova ramificação (branch) para t
 git checkout -b sua-ramificacao
 ```
 
-*Substitua `sua-ramificacao` por um nome descritivo para sua ramificação (por exemplo, `exercicio-1-solucao`).*
+*Substitua `sua-ramificacao` por um nome descritivo ou seu nome, para sua ramificação (por exemplo, `resolução-renan`).*
 
 ### 7. Commit e Push das Alterações
 
