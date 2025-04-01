@@ -17,7 +17,7 @@ Primeiro, clone este repositório para o seu ambiente local utilizando o seguint
 git clone https://github.com/renan-dias/md0104.git
 ```
 
-*Substitua `[URL_DO_REPOSITÓRIO]` pela URL real do repositório no GitHub.*
+
 
 ### 2. Criar um Ambiente Virtual (Recomendado)
 
