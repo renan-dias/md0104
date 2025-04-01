@@ -143,5 +143,3 @@ Uma pessoa pode dirigir se tiver 18 anos ou mais E não estiver com a CNH suspen
 *   Adapte os nomes das ramificações e as mensagens de commit de acordo com suas necessidades.
 *   Incentive seus alunos a fazer commits frequentes com mensagens descritivas.
 *   Revise os Pull Requests com atenção, fornecendo feedback construtivo e dicas de melhoria.
-
-Este formato é equivalente ao Markdown, mas apresentado como texto, o que pode facilitar a cópia e colagem em um arquivo README.md.  Se você colar isso em um arquivo README.md, ele se formatará corretamente.
