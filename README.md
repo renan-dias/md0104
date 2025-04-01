@@ -102,31 +102,31 @@ Abaixo estão os enunciados de cada exercício para sua referência:
 
 Crie uma interface gráfica simples com Tkinter que solicita ao usuário uma senha e verifica se ela atende a dois critérios: ter pelo menos 8 caracteres e conter pelo menos um número. Use os conectivos lógicos para combinar as condições.
 
-*   Arquivo: `senha.py`
+*   Arquivo: `questao1.py`
 
 ### Exercício 2: Jogo de Adivinhação com Pygame
 
 Crie um jogo simples com Pygame onde o jogador deve adivinhar um número entre 1 e 100. Forneça dicas ao jogador se o palpite for muito alto OU muito baixo.
 
-*   Arquivo: `adivinhacao.py`
+*   Arquivo: `questao2.py`
 
 ### Exercício 3: Verificação de Desconto com Condicionais
 
 Uma loja oferece desconto se o cliente for um membro do clube OU se a compra for acima de R$100. Implemente a lógica para verificar se o cliente tem direito ao desconto.
 
-*   Arquivo: `desconto.py`
+*   Arquivo: `questao3.py`
 
 ### Exercício 4: Validação de Entrada com Negação
 
 Crie uma função que valida se uma entrada do usuário é um número inteiro positivo. Use a negação para simplificar a lógica.
 
-*   Arquivo: `validacao.py`
+*   Arquivo: `questao4.py`
 
 ### Exercício 5: Combinação de Condições com AND e NOT
 
 Uma pessoa pode dirigir se tiver 18 anos ou mais E não estiver com a CNH suspensa. Implemente a lógica para verificar se a pessoa pode dirigir.
 
-*   Arquivo: `dirigir.py`
+*   Arquivo: `questao5.py`
 
 ## Observações
 
@@ -139,7 +139,6 @@ Uma pessoa pode dirigir se tiver 18 anos ou mais E não estiver com a CNH suspen
 
 **Observações:**
 
-*   Substitua `[URL_DO_REPOSITÓRIO]` pela URL real do seu repositório no GitHub.
 *   Certifique-se de que o arquivo `requirements.txt` está presente no seu repositório.
 *   Adapte os nomes das ramificações e as mensagens de commit de acordo com suas necessidades.
 *   Incentive seus alunos a fazer commits frequentes com mensagens descritivas.
