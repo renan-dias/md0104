@@ -1,4 +1,4 @@
-```
+
 # Projeto Prático de Conectivos Lógicos em Python
 
 ## Descrição
@@ -135,7 +135,7 @@ Uma pessoa pode dirigir se tiver 18 anos ou mais E não estiver com a CNH suspen
 *   Sinta-se à vontade para modificar e expandir os exercícios como desejar.
 *   Lembre-se de testar os códigos com diferentes entradas para garantir a correção da lógica implementada.
 *   Divirta-se e bom aprendizado!
-```
+
 
 **Observações:**
 
